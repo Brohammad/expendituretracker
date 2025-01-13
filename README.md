@@ -1,2 +1,3 @@
-# expendituretracker
+# Expenditure Tracker
+
 Created with CodeSandbox
